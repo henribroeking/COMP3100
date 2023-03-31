@@ -2,9 +2,12 @@
 The required files for running my Assignment 1 are:
 
 -ClientSimulator.java
+
 -ClientSimulator.class
+
 -Server.class
--
+
+
 
 
 The commands used to run my code are:
