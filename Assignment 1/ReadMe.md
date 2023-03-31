@@ -1,13 +1,13 @@
 
 The required files for running my Assignment 1 are:
 
--ClientSimulator.java
+ClientSimulator.java
 
--ClientSimulator.class
+ClientSimulator.class
 
--Server.class
+Server.class
 
-
+ds-sample-config01.xml
 
 
 The commands used to run my code are:
