@@ -23,6 +23,6 @@ java ClientSimulator (to start the client)
 
 ss
 s
-s
+ss
 s
 s
