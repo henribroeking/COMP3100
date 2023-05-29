@@ -18,3 +18,12 @@ java ClientSimulator (to start the client)
 
 
 
+Terminal 1:
+
+/ds-sim/src/pre-compiled/aarch64$ ./ds-server -c ds-sample-config01.xml -n -v brief
+
+
+Terminal 2:
+
+/ds-sim/src/pre-compiled/aarch64/demo/COMP3100/Assignment$ 
+
