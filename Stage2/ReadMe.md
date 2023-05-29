@@ -15,9 +15,9 @@ The commands used to run my code are:
 ./ds-server -c ds-sample-config01.xml -n -v brief (to start up the server)
 
 java ClientSimulator (to start the client)
-
-
-
+\\
+\\
+\\
 Terminal 1:
 
 /ds-sim/src/pre-compiled/aarch64$ ./ds-server -c ds-sample-config01.xml -n -v brief
